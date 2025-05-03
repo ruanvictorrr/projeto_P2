@@ -5,6 +5,6 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = https://github.com/ruanvictorrr/projeto_p2.git
+	url = https://github.com/ruanvictorrr/projeto_P2.git
 	fetch = +refs/*:refs/*
 	mirror = true
